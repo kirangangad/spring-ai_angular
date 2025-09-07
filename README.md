@@ -1,6 +1,6 @@
 # spring-ai-angular
 
-[project-logo](project_logo.svg)
+![project-logo](project_logo.svg)
 
 **AI-powered Spring Boot + Angular starter** — a clean, professional full-stack template that demonstrates integrating Spring Boot backend with AI features and an Angular frontend.
 
