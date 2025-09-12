@@ -5,7 +5,7 @@
 **AI-powered Spring Boot + Angular starter** — a clean, professional full-stack template that demonstrates integrating Spring Boot backend with AI features and an Angular frontend.
 
 ---
-
+ 
 ## Features
 - Spring Boot backend (REST APIs)
 - Angular frontend (SPA)
