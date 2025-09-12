@@ -11,7 +11,7 @@
 - Angular frontend (SPA)
 - Built-in examples for AI integrations (placeholders)
 - Docker-friendly structure
-- Clear docs and developer-friendly setup
+- Clear docs and developer-friendly setup       
 - MIT License  
 
 ---
