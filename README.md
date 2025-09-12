@@ -7,7 +7,7 @@
 ---
  
 ## Features
-- Spring Boot backend (REST APIs)     
+- Spring Boot backend (REST APIs)         
 - Angular frontend (SPA)
 - Built-in examples for AI integrations (placeholders)
 - Docker-friendly structure
